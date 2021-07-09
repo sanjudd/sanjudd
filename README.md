@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sanjay Dhandare
 - 👀 I’m interested in learning technical and logical things
 - 🌱 I’m currently learning Atlassian Jira and Automation
-- 💞️ I’m looking to collaborate on Atlassian Prodcuts Design
+- 💞️ I’m looking to collaborate on Atlassian Products Design
 - 📫 You can reach out to me : dhandaresanjay@gmail.com
 
 <!---
